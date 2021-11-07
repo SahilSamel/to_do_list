@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/style.css">
+    <script src="/script.js"></script>
+    <title>To-Do List</title>
+</head>
+<body>
+    <div class = "container">
+        <div class="app-box">
+            <H1>To-Do list</H1>
+            <div class="add-box">
+                <form>
+                    <input type="text" id="task" />
+                </form>
+                <button id="add-button" onclick="addbutton()">
+                    Add Task
+                </button>
+            </div>
+            <div>
+                <ol id="todo-list">
+                
+                </ol>
+            </div>
+            <div class="tool-box">
+                <button id="go-back" onclick="goback()">Go back</button>
+                <button id="save-list" onclick="savelist()">Save List</button>
+                <button id="empty-list" onclick="emptylist()">Empty List</button>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
