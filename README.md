@@ -1,7 +1,7 @@
-#To Do List
+# To Do List
 
 <p align="center">
-![image](https://user-images.githubusercontent.com/81075927/157844895-4cfc29fa-4b44-4ad4-81bb-f12413cbedac.png)
+  <img src="https://user-images.githubusercontent.com/81075927/157844895-4cfc29fa-4b44-4ad4-81bb-f12413cbedac.png">
 </p>
 
 <p align="center">
