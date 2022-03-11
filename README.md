@@ -1,6 +1,5 @@
-<p align="center">
-  #To Do List
-</p>
+#To Do List
+
 
 <p align="center">
   <a href="https://to-do-list-withjs.netlify.app" target="_blank">To Do List</a>
